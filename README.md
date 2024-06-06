@@ -1,5 +1,3 @@
-# Robot Dynamics & Control
-
 ## Overview
 This repository contains solutions to various tasks involving the dynamics and control of 2R planar and spatial robots. The tasks include implementing gravity compensation, recursive inverse dynamics using the Newton-Euler algorithm, and designing a PD controller with gravity compensation. These tasks are essential for understanding and applying fundamental concepts in robot dynamics and control.
 ## Repository Structure
